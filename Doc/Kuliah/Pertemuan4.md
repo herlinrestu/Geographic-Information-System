@@ -1,4 +1,4 @@
-﻿# Geographic-Information-System
+﻿
 A. Latar Belakang
 
          Dalam Qgis menyediakan shp dan dbf file. Shp dan dbf file itu dapat dilihat dengn menggunakan python. atau software yang lainnya. Data Geospasial digunakan sebagai alat bantu untuk mengambil keputusan pelaksanaan kegiatan yang berhubungan dengan ruang bumi.
